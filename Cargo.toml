@@ -15,7 +15,7 @@ std = [
 [dependencies.parity-codec]
 default-features = false
 features = ['derive']
-version = '3.5'
+version = '4.1.1'
 
 [dependencies.support]
 default_features = false
